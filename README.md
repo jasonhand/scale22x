@@ -1,4 +1,4 @@
-# scale22x Companion content for "Moderninizing Systems Observability with AI and LLMs"
+# SCaLE 22x - companion content for "Moderninizing Systems Observability with AI and LLMs"
 
 ![image](images/slides.jpg)
 
