@@ -1,14 +1,10 @@
 # scale22x Companion content for "Moderninizing Systems Observability with AI and LLMs"
 
-![image](https://github.com/user-attachments/assets/8dacc3bd-0ad2-462f-add6-7fa35d6cc35d)
+![image](images/slides.jpg)
 
 ## Resources
 
-- [Slides](slides/comingsoon.pdf)
-
-## Video
-
-[Watch on YouTube](https://youtu.be/comingsoon)
+- [Slides](slides/SCaLE-ModernizingSystemsObservabilityWithAIandLLMs.pdf)
 
 ### Stats and Data
 
